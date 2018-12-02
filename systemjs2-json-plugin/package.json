@@ -1,0 +1,17 @@
+{
+  "name": "systemjs2-json-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamaks/systemjs2-json-plugin.git"
+  },
+  "author": "Jamaks",
+  "license": "MIT",
+  "dependencies": {
+    "systemjs": "^2.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
