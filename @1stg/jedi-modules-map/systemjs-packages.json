@@ -1,6 +1,6 @@
 {
-  "react": "umd/react.development.js",
-  "react-dom": "umd/react-dom.development.js",
-  "antd": "dist/antd.js",
-  "moment": "moment.js"
+  "react": "//unpkg.com/react/umd/react.development.js",
+  "react-dom": "//unpkg.com/react-dom/umd/react-dom.development.js",
+  "antd": "//unpkg.com/antd/dist/antd.js",
+  "moment": "//unpkg.com/moment/moment.js"
 }
