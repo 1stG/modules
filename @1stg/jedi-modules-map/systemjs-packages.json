@@ -1,0 +1,6 @@
+{
+  "react": "umd/react.development.js",
+  "react-dom": "umd/react-dom.development.js",
+  "antd": "dist/antd.js",
+  "moment": "moment.js"
+}

@@ -1,0 +1,6 @@
+{
+  "react": "umd/react.development",
+  "react-dom": "umd/react-dom.development",
+  "antd": "dist/antd",
+  "moment": "moment"
+}

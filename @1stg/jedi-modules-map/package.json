@@ -1,0 +1,8 @@
+{
+  "name": "@1stg/jedi-modules-map",
+  "version": "0.0.1",
+  "description": "npm modules amd/umd format map for requirejs/SystemJS",
+  "repository": "git@github.com:1stg/modules.git",
+  "author": "JounQin <jiaren.ljr@alibaba-inc.com>",
+  "license": "MIT"
+}
