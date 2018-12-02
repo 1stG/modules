@@ -1,6 +1,8 @@
 {
-  "react": "//unpkg.com/react/umd/react.development.js",
-  "react-dom": "//unpkg.com/react-dom/umd/react-dom.development.js",
-  "antd": "//unpkg.com/antd/dist/antd.js",
-  "moment": "//unpkg.com/moment/moment.js"
+  "packages": {
+    "react": "//unpkg.com/react/umd/react.development.js",
+    "react-dom": "//unpkg.com/react-dom/umd/react-dom.development.js",
+    "antd": "//unpkg.com/antd/dist/antd.js",
+    "moment": "//unpkg.com/moment/moment.js"
+  }
 }
