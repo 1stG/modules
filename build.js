@@ -41,11 +41,15 @@ writeFileSync(
 writeFileSync(
   resolve(DIST_PATH, 'systemjs-packages.json'),
   JSON.stringify(
-    MODULES_MAP_ENTRIES.reduce(
-      (packages, [key, value]) =>
-        Object.assign(packages, { [key]: `${UNPKG_PREFIX}${key}/${value}.js` }),
-      {},
-    ),
+    {
+      packages: MODULES_MAP_ENTRIES.reduce(
+        (packages, [key, value]) =>
+          Object.assign(packages, {
+            [key]: `${UNPKG_PREFIX}${key}/${value}.js`,
+          }),
+        {},
+      ),
+    },
     null,
     2,
   ),
