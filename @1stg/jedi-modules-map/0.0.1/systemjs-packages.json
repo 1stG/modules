@@ -3,6 +3,8 @@
     "react": "//unpkg.com/react/umd/react.development.js",
     "react-dom": "//unpkg.com/react-dom/umd/react-dom.development.js",
     "antd": "//unpkg.com/antd/dist/antd.js",
-    "moment": "//unpkg.com/moment/moment.js"
+    "classnames": "//unpkg.com/classnames/index.js",
+    "moment": "//unpkg.com/moment/moment.js",
+    "@1stg/jedi": "//1stg.github.io/jedi/index.js"
   }
 }
